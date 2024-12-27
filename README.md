@@ -2,6 +2,18 @@
 
 # **Omar Ahmad**
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=omarasahmad&show_icons=true&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=omarasahmad&show_icons=true&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=omarasahmad&show_icons=true" />
+</picture>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omarasahmad&theme=github-dark-blue&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
