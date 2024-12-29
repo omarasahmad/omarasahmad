@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Omar Ahmad**
+![Banner](https://github.com/omarasahmad/omarasahmad/blob/main/header.png?raw=true)
 
 ![Views](https://komarev.com/ghpvc/?username=omarasahmad&color=blue&label=Profile+Views&base=4378&abbreviated=true)
 
