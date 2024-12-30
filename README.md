@@ -4,7 +4,8 @@
 
 ![Views](https://komarev.com/ghpvc/?username=omarasahmad&color=blue&label=Profile+Views&base=4378&abbreviated=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=omarasahmad&theme=github-dark-blue&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=omarasahmad&theme=github-dark-blue&hide_border=true&mode=weekly#gh-dark-mode-only)
+![GitHub Streak](https://streak-stats.demolab.com?user=omarasahmad&theme=default&hide_border=true&mode=weekly#gh-light-mode-only)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
