@@ -5,13 +5,13 @@
 
 <picture>
   <source 
-    srcset="https://streak-stats.demolab.com?user=omarasahmad&theme=github-dark-blue&hide_border=true&mode=weekly" 
+    srcset="https://github-readme-streak-stats-eight.vercel.app?user=omarasahmad&theme=github-dark-blue&hide_border=true" 
     media="(prefers-color-scheme: dark)">
   <source 
-    srcset="https://streak-stats.demolab.com?user=omarasahmad&theme=default&hide_border=true&mode=weekly" 
+    srcset="https://github-readme-streak-stats-eight.vercel.app?user=omarasahmad&theme=default&hide_border=true" 
     media="(prefers-color-scheme: light)">
   <img 
-    src="https://streak-stats.demolab.com?user=omarasahmad&theme=default&hide_border=true&mode=weekly" 
+    src="https://github-readme-streak-stats-eight.vercel.app?user=omarasahmad&theme=default&hide_border=true" 
     alt="GitHub Streak">
 </picture>
 
